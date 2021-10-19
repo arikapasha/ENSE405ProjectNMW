@@ -30,7 +30,7 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 [High Fidelity Prototype](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Diagrams%20and%20Prototypes/Prototypes/High%20Fidelity%20Prototypes)
 
-[High Fidelity Prototype](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Diagrams%20and%20Prototypes/Prototypes/Low%20Fidelity%20Prototypes)
+[Low Fidelity Prototype](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Diagrams%20and%20Prototypes/Prototypes/Low%20Fidelity%20Prototypes)
 
 
 
