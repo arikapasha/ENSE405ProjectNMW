@@ -22,6 +22,9 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 [Activity#2](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%232)
 
+[Activity#3](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%233)
+
+
 ## Vlogs
 [Vlog#1](https://youtu.be/De_46E4CzQ4)
 
