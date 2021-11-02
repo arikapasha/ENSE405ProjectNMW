@@ -17,6 +17,10 @@ This is something that is extremely common in restaurants and fast food places a
 
 This is extremely important, especially in the winter time, where around 286 homeless people may not even have a single meal every day. Instead of that food going to waste, it could help someone out significantly. 
 
+## Status Report 
+[MVP#1 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/Activity%233/Project%20Status%20Report.pdf)
+
+
 ## Documentation
 [Activity#1](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%231)
 
