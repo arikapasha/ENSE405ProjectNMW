@@ -19,7 +19,9 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 ## Status Report and Class Concepts 
 [MVP#1 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/09%20Project%20Status%20Report%20MVP%231.pdf)
+
 [MVP#2 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/10%20Project%20Status%20Report%20MVP%232.pdf)
+
 [MVP#2 Class Concepts](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/11%20Project%20Class%20Concepts%20MVP%232.pdf)
 
 ## Documentation
