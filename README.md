@@ -27,12 +27,22 @@ This is extremely important, especially in the winter time, where around 286 hom
 ## Current Working Demo (MVP#2)
 
 ## Documentation
-[Activity#1](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%231)
 
-[Activity#2](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%232)
+[Community Characteristics Orientation](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/01%20Community%20Characteristics%20Orientation.pdf)
 
-[Activity#3](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Documentation/Activity%233)
+[Technology Configuration Inventory](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/02%20Technology%20Configuration%20Inventory.pdf)
 
+[Business Case](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/03%20Business%20Case.pdf)
+
+[Stakeholder Analysis](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/04%20Stakeholder%20Analysis.pdf)
+
+[Drafting an Emerging Picture](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/05%20Drafting%20an%20Emerging%20Picture.pdf)
+
+[Project Scope Statement](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/06%20Project%20Scope%20Statement.pdf)
+
+[Project Requirements](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/07%20Project%20Requirements.pdf)
+
+[Activity-Based Schedule](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/08%20Activity-Based%20Schedule.pdf)
 
 ## Vlogs
 [Vlog#1](https://youtu.be/De_46E4CzQ4)
