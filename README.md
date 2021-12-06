@@ -19,9 +19,10 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 ## Demo (MVP#3)
 
-[Commercial Vlog](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+[Commercial Vlog](https://www.youtube.com/watch?v=gpl47vO_Znc)
 
 ## Status Report and Class Concepts 
+
 [MVP#1 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/09%20Project%20Status%20Report%20MVP%231.pdf)
 
 [MVP#2 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/10%20Project%20Status%20Report%20MVP%232.pdf)
@@ -53,9 +54,14 @@ This is extremely important, especially in the winter time, where around 286 hom
 [Activity-Based Schedule](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/08%20Activity-Based%20Schedule.pdf)
 
 ## Vlogs
+
 [Vlog#1](https://youtu.be/De_46E4CzQ4)
 
+[MBP#2 Demo](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+
+
 ## Diagrams/Prototypes
+
 [Diagrams](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Diagrams%20and%20Prototypes/Diagrams)
 
 [High Fidelity Prototype](https://github.com/arikapasha/ENSE405ProjectNMW/tree/main/Diagrams%20and%20Prototypes/Prototypes/High%20Fidelity%20Prototypes)
