@@ -57,7 +57,7 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 [Vlog#1](https://youtu.be/De_46E4CzQ4)
 
-[MBP#2 Demo](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+[MVP#2 Demo](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
 
 
 ## Diagrams/Prototypes
