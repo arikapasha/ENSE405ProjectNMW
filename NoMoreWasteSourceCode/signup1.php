@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "catfish9233";
+$password = "";
 $dbname = "nmw";
 
 // Create connection
