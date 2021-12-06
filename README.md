@@ -24,9 +24,9 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 [MVP#2 Class Concepts](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/11%20Project%20Class%20Concepts%20MVP%232.pdf)
 
-## Current Working Demo (MVP#2)
+## Current Working Demo (MVP#3)
 
-[MVP#2 Demo](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+[Commercial Vlog](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
 
 
 ## Documentation
