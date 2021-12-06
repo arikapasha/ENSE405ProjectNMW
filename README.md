@@ -17,6 +17,10 @@ This is something that is extremely common in restaurants and fast food places a
 
 This is extremely important, especially in the winter time, where around 286 homeless people may not even have a single meal every day. Instead of that food going to waste, it could help someone out significantly. 
 
+## Demo (MVP#3)
+
+[Commercial Vlog](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+
 ## Status Report and Class Concepts 
 [MVP#1 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/09%20Project%20Status%20Report%20MVP%231.pdf)
 
@@ -24,9 +28,10 @@ This is extremely important, especially in the winter time, where around 286 hom
 
 [MVP#2 Class Concepts](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/11%20Project%20Class%20Concepts%20MVP%232.pdf)
 
-## Current Working Demo (MVP#3)
+[MVP#3 Status Report](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/12%20Project%20Status%20Report%20MVP%233.pdf)
 
-[Commercial Vlog](https://www.youtube.com/watch?v=wV4TKWe92JA&feature=youtu.be)
+[MVP#3 Class Concepts](https://github.com/arikapasha/NoMoreWaste/blob/main/Documentation/13%20Project%20Class%20Concepts%20MVP%233.pdf)
+
 
 
 ## Documentation
