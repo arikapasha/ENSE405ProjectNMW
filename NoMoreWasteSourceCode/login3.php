@@ -6,7 +6,7 @@ $validate = true;
     $username = trim($_POST["username"]);
     $password = trim($_POST["password"]);
     
-    $db = new mysqli("localhost", "root", "catfish9233", "nmw");
+    $db = new mysqli("localhost", "root", "", "nmw");
     if ($db->connect_error)
     {
         die ("Connection failed: " . $db->connect_error);
