@@ -9,7 +9,7 @@ ini_set('display_errors', 1);
  //connection to db
     $servername = "localhost";
     $username = "root";
-    $password = "catfish9233";
+    $password = "";
     $dbname = "nmw";
 
     // Create connection
