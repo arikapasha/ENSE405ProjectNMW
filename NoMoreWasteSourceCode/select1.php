@@ -8,7 +8,7 @@ if (!isset($_SESSION["username2"])) {
 else{
 $servername = "localhost";
 $username = "root";
-$password = "catfish9233";
+$password = "";
 $dbname = "nmw";
 
 // Create connection
