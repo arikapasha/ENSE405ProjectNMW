@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link  rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+      <div class = "wrapper1">
+<h5 class ="box"><a href="/"><img src="nmw.png" width= "100" height= "100"></a> No More Waste</h5>
+    
+    
+
+    <section>
+      
+      <h2 class = "title">Business Signup </h2><br>
+
+            <div class = "borderform">
+
+      <form action="signup1.php" method="post" enctype = "multipart/form-data">
+
+       <label for="username">Username:</label><br>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" name="username" placeholder="Enter Username">
+        </div>
+
+       <label for="password">Password:</label><br>
+        <div class="input-group mb-3">
+            <input type="password" class="form-control" name="password" placeholder="Enter Password">
+        </div>
+
+        <label for="businessname">Business Name:</label><br>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" name="busname" placeholder="Enter Business Name">
+        </div>
+        
+        <label for="file">Profile:</label><br>
+        <div class="input-group mb-3">
+            <input type="file" class="form-control" name="file" id="file" placeholder="Enter file">
+        </div>
+        
+        <label for="file">Food Picture (this will be shown on your posts):</label><br>
+        <div class="input-group mb-3">
+            <input type="file" class="form-control" name="foodpic" placeholder="Enter file">
+        </div>
+
+        <label for="number">Phone Number:</label><br>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" name="phone" placeholder="(306) 123-4567">
+        </div>
+
+        <label for="address">Address:</label><br>
+        <div class="input-group mb-3">
+             <input type="text" class="form-control" name="address" placeholder="4620 Gordon Rd, S4W 0B7">
+        </div>
+
+         <label for="name">Manager Name:</label><br>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" name="name" placeholder="Enter Full Name">
+        </div>
+
+        <input type="submit" class="btn" value="Signup">
+
+        </form>
+        </div>
+    </section>
+    <br><br><br><br>
+    </div>
+</body>
+</html>
